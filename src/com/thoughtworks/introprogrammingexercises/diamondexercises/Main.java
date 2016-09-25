@@ -8,10 +8,10 @@ public class Main {
         Printer p = new Printer();
 
         //Isosceles triangle
-        //p.printTriangle(3);
+        p.printTriangle(3);
 
         //Diamond
-        //p.printDiamond(3);
+        p.printDiamond(3);
 
         //Diamond with name
         p.printDiamondName(3);
